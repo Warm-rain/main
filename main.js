@@ -172,7 +172,7 @@ clickUiBounds(text("上下班打卡"))
 
 sleep(1000);
 
-className("android.widget.TextView").text("赢合科技").waitFor()//等待定位
+className("android.widget.TextView").text("公司名称").waitFor()//等待定位
 
 //click(500, 1480);//点击拍照打卡
 
@@ -206,7 +206,7 @@ else{
 
 sleep(1000);
 
-className("android.widget.TextView").text("赢合科技").waitFor()//等待定位
+className("android.widget.TextView").text("公司名称").waitFor()//等待定位
 
 //click(500, 1480);//点击拍照打卡
 
